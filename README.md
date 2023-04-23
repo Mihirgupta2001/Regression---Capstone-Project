@@ -4,6 +4,8 @@
 
 The aim of this project is to predict the closing price of the Yes Bank stock for the next month. Through rigorous data analysis, it has been observed that some bad news/FUD heavily manipulated the market from 2018, which created a rug pull-like scenario as it was undetected by any indicator we have used in the project. Although signs of retracement and capitulation could have been seen through detailed analysis from mid-2018 till 2020, it was a continuous downfall and not a healthy market movement.
 
+Click here to try the application - https://mihirgupta2001-regression---capstone-project-app-8l4lkm.streamlit.app/
+
 ## Dataset
 
 The dataset used in this project is the historical stock market data of Yes Bank from 2015 to 2020. The data was collected from Kaggle and contains information on the open, high, low and close of the month for Yes Bank's stock.
